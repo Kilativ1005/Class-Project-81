@@ -1,0 +1,30 @@
+Reference Link : https://code.visualstudio.com/docs/python/tutorial-flask
+
+Flow :
+1. Teacher will talk about flask framework
+2. Teacher will show how to create basic falsk server using Welcome to blcokchain message
+3. Teacher will help the student to understand the routes and other https methods
+4. They will togther create one Flask server
+
+
+TA1 : Create Server on Flask
+- Create basic flask server with message Welcome to Blockchain
+SA1 : Same as TA1
+
+TA2 : Templates in Flask
+- Static files in Flask and Templates
+- Recive the form data from request when the request method is POST
+- Explain Jinja
+
+
+
+SA2 : Same as TA2
+
+TA3 : 
+- Create Block data dictionary
+- Pass the blockData in post method 
+- Explain Jinja (Conditions in Jinja )
+- Write conditions using Jinja in Flask
+- Run the server on different port to avoid caching (Optional)
+
+SA3 :  Same as TA3
